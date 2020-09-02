@@ -1,0 +1,34 @@
+
+-----linux commands------
+cd = used for entering into a directory
+mkdir = used for creating a directory
+pwd = to see what directory you're in 
+ls =  to list the files
+-l = to list a file per line
+-t = to sort it by newest firrst
+-r = to reverse sorting
+ls -ltr = to do all three listings
+cd .. = to go back, one directy up
+cat = to print the file output
+pico -l (filename) = lets you open up a file to edit
+
+------github commands-----
+git config = lets you configure your github
+git clone = lets you clone a repo
+git status = lets you check the status of the rep
+git add = lets you add to your github
+git commit = lets you add a message to a file
+git push = pushes the chagnged file into your github
+
+
+i. i can discuss ideas, But I can't do homework WITH anyone. Must state
+whether collaberation was done or not.
+
+ii. I can use outside materials, but I must be able to not look at it
+and do it myself. Also if I use already known knowledge, I must be able
+to explain it. Must state whether outside material was used or not.
+
+iii. 15% off the grade per day when late
+
+iv. 2 absenses allowed, 15% penalty off of participation grade after.
+
